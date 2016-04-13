@@ -1,0 +1,6 @@
+{
+  "name": "Head-first-html5",
+  "tagline": "Code for Head First HTML5 Programming by Eric Freeman and Elisabeth Robson",
+  "body": "This repository contains code for Head First HTML5 Programming \r\n(October, 2011).\r\n\r\nHead First HTML5 Programming\r\nby Eric Freeman\r\nand Elisabeth Robson\r\n\r\nChapter 1: Welcome to Webville - Not your father's HTML \r\nChapter 2: A Little Code - Introducing JavaScript and the DOM \r\nChapter 3: A Little Interaction - Event Handlers and All That Jazz \r\nChapter 4: Serious JavaScript - JavaScript Functions and Objects\r\nChapter 5: GeoLocation - Making your HTML Location Aware\r\nChapter 6: Extroverted Apps - JavaScript and Web Services\r\nChapter 7: The Canvas - Bring out your Inner Artist\r\nChapter 8: Video (with special guest, The Canvas) - Not Your Father's TV\r\nChapter 9: A Little More Closet Space - Web Storage\r\nChapter 10: Putting JavaScript to Work - Web Workers\r\nAppendix: Stuff we didn't cover, where to go from here\r\n\r\nhttp://wickedlysmart.com/hfhtml5/\r\n\r\nYou can also download the code from github:\r\nhttps://github.com/bethrobson/Head-First-HTML5\r\n\r\n",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
